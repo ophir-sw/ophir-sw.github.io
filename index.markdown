@@ -11,7 +11,7 @@ I have 25 years of engineering, product, and design IC and leadership experience
 
 I co-founded and served as SVP Product at [eDealya](https://www.crunchbase.com/organization/edealya), raising approximately $1M from [Nielsen's incubator](https://www.nielsen.com) and successfully leading the company through an entrepreneurial journey that brought me from Tel Aviv to Silicon Valley. I’ve held key product leadership roles at [Totango](https://www.totango.com), [Degreed](https://www.degreed.com), and [Grovo](https://www.grovo.com).
 
-My foundational experience includes engineering at [Intel](https://www.intel.com) and leading engineering and product teams at [Amdocs](https://www.amdocs.com), delivering projects for major clients such as [AT&T](https://www.att.com). 
+My foundational experience includes engineering at [Intel](https://www.intel.com) and leading engineering and product teams at [Amdocs (NASDAQ: DOX)](https://www.amdocs.com), delivering projects for major clients such as [AT&T](https://www.att.com). 
 
 I was the Head of Product Design at [Gainsight](https://www.gainsight.com), leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.youtube.com/watch?v=WYp0qn1kThg)).
 
