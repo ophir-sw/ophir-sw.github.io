@@ -13,7 +13,7 @@ I co-founded and served as SVP Product at [eDealya](https://www.crunchbase.com/o
 
 My foundational experience includes engineering at [Intel](https://www.intel.com) and leading engineering and product teams at [Amdocs (NASDAQ: DOX)](https://www.amdocs.com), delivering projects for major clients such as [AT&T](https://www.att.com). 
 
-I was the Head of Product Design at [Gainsight](https://www.gainsight.com), leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.youtube.com/watch?v=WYp0qn1kThg)).
+I was the Head of Product Design at [Gainsight](https://www.gainsight.com), a private-equity-held unicorn, leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.youtube.com/watch?v=WYp0qn1kThg)).
 
 My leadership skills were first honed as an officer in an elite Israeli military unit, completing rigorous training equivalent to West Point officer training with distinction. 
 
