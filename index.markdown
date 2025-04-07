@@ -9,11 +9,13 @@ Brief Bio
 
 I have 25 years of engineering, product, and design IC and leadership experience spanning the full growth spectrum—from lean startups and Fortune 500 enterprises to unicorn-scale ventures. 
 
-I co-founded and served as SVP Product at [eDealya](https://www.crunchbase.com/organization/edealya), raising approximately $1M from [Nielsen's incubator](https://www.nielsen.com) and successfully leading the company to a successful entrepreneurial journey that brought me from Tel Aviv to Silicon Valley. I've held key product leadership roles at [Totango](https://www.totango.com), [Degreed](https://www.degreed.com), and [Grovo](https://www.grovo.com).
-
-I was the Head of Product Design at [Gainsight](https://www.gainsight.com), leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.gainsight.com/pulse/)).
+I co-founded and served as SVP Product at [eDealya](https://www.crunchbase.com/organization/edealya), raising approximately $1M from [Nielsen's incubator](https://www.nielsen.com) and leading the company to a successful entrepreneurial journey that brought me from Tel Aviv to Silicon Valley. 
 
 My foundational experience includes engineering at [Intel](https://www.intel.com) and leading engineering and product teams at [Amdocs](https://www.amdocs.com), delivering projects for major clients such as [AT&T](https://www.att.com). 
+
+I've held key product leadership roles at [Totango](https://www.totango.com), [Degreed](https://www.degreed.com), and [Grovo](https://www.grovo.com).
+
+I was the Head of Product Design at [Gainsight](https://www.gainsight.com), leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.gainsight.com/pulse/)).
 
 My leadership skills were first honed as an officer in an elite Israeli military unit, completing rigorous training equal to West Point office training with distinction. 
 
@@ -24,7 +26,7 @@ I also hold a [registered patent](https://patents.google.com/patent/US11785482B1
 Timeline
 --------
 
-- **May 2021 – April 2025:** _Head of Product Design_, [Gainsight](https://www.gainsight.com), San Francisco, USA
+- **May 2021 – March 2025:** _Head of Product Design_, [Gainsight](https://www.gainsight.com), San Francisco, USA
 - **Mar 2020 – May 2021:** _Technical Product Manager_, ZaiNar, Silicon Valley, USA
 - **Mar 2018 – Mar 2020:** _Director of Product_, [Degreed](https://www.degreed.com), San Francisco, USA
 - **Jan 2017 – Mar 2018:** _Senior Product Manager_, [Grovo](https://www.grovo.com), New York, USA
