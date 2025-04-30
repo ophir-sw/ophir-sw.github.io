@@ -23,7 +23,7 @@ I hold a B.Sc. in Information Technology Engineering (Magna Cum Laude) and an MB
 
 I also hold a [registered patent](https://patents.google.com/patent/US11785482B1/) on robotic automation for indoor location testing.
 
- As a side project, I developed a smart contract on Solana for an insurance use case.
+ As a side project, I developed a smart contract on [Solana](https://solana.com/) for an insurance use case.
 
 Timeline
 --------
