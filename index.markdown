@@ -15,7 +15,7 @@ My foundational experience includes engineering at [Intel](https://www.intel.com
 
 I was the Head of Product Design at [Gainsight](https://www.gainsight.com), a private-equity-held unicorn, leading a global team of 25+ designers and researchers, significantly enhancing user experience and representing the company at events attended by 5,000+ participants (see my [Pulse conference talk](https://www.youtube.com/watch?v=WYp0qn1kThg)).
 
-At Totango, I also built a mobile app end-to-end in Swift—from scoping and design to writing the code—that won a CODiE Award.
+At [Totango](https://www.totango.com), I also built a mobile app end-to-end in Swift—from scoping and design to writing the code—that won a CODiE Award.
 
 My leadership skills were first honed as an officer in an elite Israeli military unit, completing rigorous training equivalent to West Point officer training with distinction. 
 
