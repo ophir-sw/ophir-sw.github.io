@@ -9,9 +9,11 @@ Brief Bio
 
 I’m an engineer‑turned‑product leader with 25 years of experience building API‑first platforms, with nearly a decade devoted to learning technologies. I bring deep, hands-on experience across the full stack, especially with backend APIs and learning platforms.
 
-At **[Grovo](https://www.grovo.com)** I built the **SCORM 1.2/2004** bridge and led the micro‑learning catalog extension to enterprise LMSs—work that later helped spark **[Cornerstone OnDemand](https://www.cornerstoneondemand.com)**’s acquisition. I scaled backend APIs and admin tooling for global learning ecosystems at **[Degreed](https://www.degreed.com)**, and shipped mobile SDKs plus backend integrations that surface customer‑health insights at **[Totango](https://www.totango.com)**. Most recently, as Head of Product Design at **[Gainsight](https://www.gainsight.com)**, I merged engineering discipline with UX Ops, automating design audits with LLMs and tightening the spec‑to‑code feedback loop.
+At **[Grovo](https://www.grovo.com)** I built the **SCORM 1.2/2004** bridge and led the micro‑learning catalog extension to enterprise LMSs—work that later helped spark **[Cornerstone OnDemand](https://www.cornerstoneondemand.com)**’s acquisition. I scaled backend APIs and admin tooling for global learning ecosystems at **[Degreed](https://www.degreed.com)**, and shipped mobile SDKs plus backend integrations that surface customer‑health insights at **[Totango](https://www.totango.com)**. 
 
 My engineering roots were forged at [Intel](https://www.intel.com), and I led cross-functional project delivery at [Amdocs (NASDAQ: DOX)](https://www.amdocs.com) wokring with big clients such as [AT&T](https://www.att.com).
+
+Most recently, as Head of Product Design at **[Gainsight](https://www.gainsight.com)**, I merged engineering discipline with UX Ops, automating design audits with LLMs and tightening the spec‑to‑code feedback loop.
 
 I hold a [registered patent](https://patents.google.com/patent/US11785482B1/) in using robotic automation for indoor location testing.
 
