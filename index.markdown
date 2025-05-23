@@ -15,7 +15,7 @@ I’m happy this role opened up—I feel it’s a strong match for my background
 Looking forward to exploring this opportunity.
 
 Thanks for your consideration,  
-Ophir Sweiry
+Ophir
 
-ophirsw@gmail.com • 408-656-9950  
+ophirsw@gmail.com • 408-646-9950  
 
