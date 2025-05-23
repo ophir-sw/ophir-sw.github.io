@@ -4,7 +4,7 @@ I’m happy this role opened up—I feel it’s a strong match for my background
 
 #### Why me
 
-- **~ 10 years in EdTech.** Shipped SCORM↔xAPI bridges, pushed micro-learning catalogs into enterprise LMSs, and ran API programs.
+- **~ 10 years in EdTech.** Shipped SCOR and xAPI bridges, pushed micro-learning catalogs into enterprise LMSs, and ran API programs.
   
 - **System-level thinking.** I design integrations that clear Fortune 500 security reviews while remaining easy for developers to adopt. **
   
