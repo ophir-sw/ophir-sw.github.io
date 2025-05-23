@@ -7,9 +7,6 @@ layout: home
 Brief Bio
 ---------
 
-Brief Bio
----------
-
 I’m an engineer‑turned‑product leader with 25 years of experience building API‑first platforms, with nearly a decade devoted to learning technologies. I bring deep, hands-on experience across the full stack, especially with backend APIs and learning platforms.
 
 At **[Grovo](https://www.grovo.com)** I built the **SCORM 1.2/2004** bridge and led the micro‑learning catalog extension to enterprise LMSs—work that later helped spark **[Cornerstone OnDemand](https://www.cornerstoneondemand.com)**’s acquisition. I scaled backend APIs and admin tooling for global learning ecosystems at **[Degreed](https://www.degreed.com)**, and shipped mobile SDKs plus backend integrations that surface customer‑health insights at **[Totango](https://www.totango.com)**. Most recently, as Head of Product Design at **[Gainsight](https://www.gainsight.com)**, I merged engineering discipline with UX Ops, automating design audits with LLMs and tightening the spec‑to‑code feedback loop.
