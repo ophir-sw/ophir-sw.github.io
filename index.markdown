@@ -1,8 +1,8 @@
-### Hey, Skillable team,
+### Hey, Skillable team, ###
 
 I’m happy this role opened up—I feel it’s a strong match for my background, and I’d love to work again with the many Skillable folks I already know and respect.
 
-#### Why me
+#### Why me ###
 
 - **~ 10 years in EdTech.** Shipped SCOR and xAPI bridges, pushed micro-learning catalogs into enterprise LMSs, and ran API programs.
   
@@ -16,6 +16,4 @@ Looking forward to exploring this opportunity.
 
 Thanks for your consideration,  
 Ophir
-
-ophirsw@gmail.com • 408-646-9950  
 
