@@ -6,6 +6,7 @@ layout: home
 
 Brief Bio
 ---------
+Bay Area–based, with U.S., Israeli, and EU citizenship.
 
 I bring 25 years of experience across engineering, product, and design—spanning early-stage startups, unicorns, and Fortune 500s—with a sharp focus in the last decade on **AI-driven innovation**, **machine learning pipelines**, and **LLM-powered automation**.
 
