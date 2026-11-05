@@ -10,8 +10,6 @@ Product Builder · Agents & Automation
 
 Engineering, product, and design. Startups, unicorns, Fortune 500. Now: building agents that do real work on real systems.
 
-> **Hands-on, not just strategy.** I build and run my own multi-agent system in production, and I take the same architecture into enterprise products.
-
 Bio
 ---
 Bay Area-based, with U.S., Israeli, and EU citizenship.
@@ -28,18 +26,6 @@ Shipped at Scale
 - **ZaiNar:** ML pipeline for real-time 3D indoor location. Robotic test automation ([registered U.S. patent](https://patents.google.com/patent/US11785482B1/en)).
 - **Degreed:** Shipped recommender + skill-graph used by Fortune 500 L&D orgs.
 - **SugarCRM:** Drove FY27 reposition for a 700-person org, from system of record → system of guidance.
-
-Currently Building
-------------------
-**Multi-Agent System · In Production · 6+ months · Ships Nightly**
-
-- Always-on agent system on edge hardware at home, with Claude Code as the orchestration layer.
-- Coding agents dispatch and review their own GitHub work. The system catches its own failures and self-heals.
-- Agents act through real surfaces: email, calendar, chat, a desk display, a physical keypad and a small voice robot.
-
-Same "system of guidance" architecture I took into SugarCRM's FY27 strategy, tested on myself first.
-
-**Hands-on:** LLM APIs and agent frameworks (Claude Code, multi-agent orchestration, tool integrations), GitHub automation, ML pipelines, edge hardware, a Solana smart contract.
 
 Looking For
 -----------
